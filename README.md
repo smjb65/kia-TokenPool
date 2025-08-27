@@ -1,6 +1,8 @@
-⚡ Kia DEX
+⚡ Kia TokenPool
 
 A simple decentralized exchange (DEX) simulator where you can deploy your own ERC-20 tokens on the Sepolia Testnet, list them in a token table, and experiment with trading-like features.
+
+https://kia-token-pool-psi.vercel.app/
 
 ✨ Features
 
